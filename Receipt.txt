@@ -1,0 +1,6 @@
+******************************
+100. Pizza Margeritta	12€
+101. Pizza Tunfisch	12€
+200. Auflauf Nudeln	10€
+Summe: 34 €
+Vielen Dank für Ihren Besuch!
